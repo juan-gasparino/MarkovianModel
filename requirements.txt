@@ -1,0 +1,11 @@
+matplotlib==3.6.2
+numpy==1.23.4
+scipy==1.9.0
+jax==0.2.25
+jaxlib==0.1.74
+qiskit==0.31.0
+qiskit-terra==0.18.3
+qiskit-aer==0.9.1
+qiskit-ignis==0.6.0
+qiskit-ibmq-provider==0.17.0
+qiskit-aqua==0.9.5
